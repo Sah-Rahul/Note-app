@@ -182,11 +182,14 @@ Login with email and password
 
 ### 🤝 Contributing
 
-- Fork the repository
-- Create feature branch (git checkout -b feature/AmazingFeature)
-- Commit changes (git commit -m 'Add AmazingFeature')
-- Push to branch (git push origin feature/AmazingFeature)
-- Open Pull Request
+```js
+Fork the repository
+Create feature branch (git checkout -b feature/AmazingFeature)
+Commit changes (git commit -m 'Add AmazingFeature')
+Push to branch (git push origin feature/AmazingFeature)
+Open Pull Request
+```
+
 ## 📸 Screenshots
 Home Page
 
